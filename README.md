@@ -1,0 +1,1 @@
+# FPGAkongzhiADS1256jinxingADCcaiyang
